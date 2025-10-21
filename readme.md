@@ -53,8 +53,8 @@ Estas son algunas de las herramientas y tecnologías con las que trabajo habitua
 ## 📊 Mis Estadísticas de GitHub
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=[TU_USUARIO_DE_GITHUB]&show_icons=true&theme=dark&count_private=true" alt="Estadísticas de GitHub de [Tu Nombre]" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&theme=dark" alt="Lenguajes Más Usados" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=enriquesl1102&show_icons=true&theme=dark&count_private=true" alt="Estadísticas de GitHub de enriquesl1102" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquesl1102&layout=compact&theme=dark" alt="Lenguajes Más Usados" />
 </p>
 
 <p align="center">
