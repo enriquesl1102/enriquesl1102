@@ -37,12 +37,12 @@ Estas son algunas de las herramientas y tecnologías con las que trabajo habitua
 
 ### Herramientas y Conceptos
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/KiCad-314168?style=for-the-badge&logo=kicad&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/PlatformIO-F07D2B?style=for-the-badge&logo=platformio&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/RTOS-1A4688?style=for-the-badge&logo=arm&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/SPI%2FI2C%2FUART-000000?style=for-the-badge"></code>
 <code><img height="20" src="https://img.shields.io/badge/Mosquitto-3C5280?style=for-the-badge&logo=mosquitto&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/SPI%2FI2C%2FUART-000000?style=for-the-badge"></code>
+<code><img height="20" src="https://img.shields.io/badge/PlatformIO-F07D2B?style=for-the-badge&logo=platformio&logoColor=white"></code>
+
 <br>
 
 ## 🚀 Proyectos Destacados
