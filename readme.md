@@ -27,21 +27,21 @@ Estas son algunas de las herramientas y tecnologías con las que trabajo habitua
 ### Lenguajes de Programación
 <code><img height="20" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Ada-025E8C?style=plastic&logo=ada&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Ada-025E8C?style=flat&logo=ada&logoColor=white"></code>
 
 ### Hardware y Plataformas
-<code><img height="20" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"></code>
 
 ### Herramientas y Conceptos
-<code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/RTOS-1A4688?style=for-the-badge&logo=arm&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Mosquitto-3C5280?style=for-the-badge&logo=mosquitto&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/SPI%2FI2C%2FUART-000000?style=for-the-badge"></code>
-<code><img height="20" src="https://img.shields.io/badge/PlatformIO-F07D2B?style=for-the-badge&logo=platformio&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/RTOS-1A4688?style=flat&logo=arm&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Mosquitto-3C5280?style=flat&logo=mosquitto&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/SPI%2FI2C%2FUART-000000?style=flat"></code>
+<code><img height="20" src="https://img.shields.io/badge/PlatformIO-F07D2B?style=flat&logo=platformio&logoColor=white"></code>
 
 <br>
 
