@@ -20,15 +20,15 @@ Mi enfoque principal es el **desarrollo de sistemas embebidos (embedded systems)
 
 <br>
 
-## 🛠️ Mi Stack Tecnológico
+## 🛠️ Mi TechStack
 
 Estas son algunas de las herramientas y tecnologías con las que trabajo habitualmente:
 
 ### Lenguajes de Programación
-<code><img height="20" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Ada-025E8C?style=for-the-badge&logo=ada&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=plastic&logo=python&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Ada-025E8C?style=plastic&logo=ada&logoColor=white"></code>
 
 ### Hardware y Plataformas
 <code><img height="20" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"></code>
