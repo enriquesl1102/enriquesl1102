@@ -1,13 +1,13 @@
 <h1>
-  ¡Hola! 👋 Soy Quique
+  ¡Hola! Soy Quique
 </h1>
 <h3>
   Estudiante de Ingeniería Electrónica | Desarrollador de Sistemas Embebidos
 </h3>
 
 <br>
+<span style="color:red;">## 👨‍💻 Sobre Mí</span>
 
-## 👨‍💻 Sobre Mí
 
 Soy un estudiante de **Ingeniería Electrónica** en la Universitat Politécnica de València, apasionado por la intersección entre el hardware, el software y la inteligancia artificial 
 
