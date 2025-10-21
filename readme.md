@@ -28,11 +28,13 @@ Estas son algunas de las herramientas y tecnologías con las que trabajo habitua
 <code><img height="20" src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></code>
+<code><img height="20" src="https://img.shields.io/badge/Ada-025E8C?style=for-the-badge&logo=ada&logoColor=white"></code>
+
 ### Hardware y Plataformas
 <code><img height="20" src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Ada-025E8C?style=for-the-badge&logo=ada&logoColor=white"></code>
+
 ### Herramientas y Conceptos
 <code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></code>
 <code><img height="20" src="https://img.shields.io/badge/KiCad-314168?style=for-the-badge&logo=kicad&logoColor=white"></code>
@@ -47,24 +49,11 @@ Estas son algunas de las herramientas y tecnologías con las que trabajo habitua
 
 ¡Puedes ver mis proyectos más importantes anclados a continuación! Aquí hay un par de los que me siento orgulloso:
 
--   **[Nombre del Proyecto 1]**: Breve descripción de lo que hace el proyecto y las tecnologías que usaste (Ej: Un sistema de monitoreo IoT usando ESP32 y C++).
--   **[Nombre del Proyecto 2]**: Breve descripción (Ej: Implementación de un filtro Kalman en un STM32 para un dron).
+-   **DomusAI**: Proyecto de Adquisición y Procesado de datos domésticos por IA para optimizar y reducir el consumo en el hogar mediante el uso de una esp32 y un sensor ACS712.
 
 <br>
 
-## 📊 Mis Estadísticas de GitHub
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=enriquesl1102&show_icons=true&theme=dark&count_private=true" alt="Estadísticas de GitHub de enriquesl1102" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enriquesl1102&layout=compact&theme=dark" alt="Lenguajes Más Usados" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielMoreno&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="profile views" />
-</p>
-
-
-<br>
 ## 📫 ¿Conectamos?
 
 ¡Estoy siempre abierto a colaborar en proyectos interesantes o a charlar sobre tecnología!
