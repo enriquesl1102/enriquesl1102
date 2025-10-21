@@ -9,14 +9,14 @@
 
 ## 👨‍💻 Sobre Mí
 
-Soy un estudiante de **Ingeniería Electrónica** en [Nombre de tu Universidad o Institución] apasionado por la intersección entre el hardware y el software. 
+Soy un estudiante de **Ingeniería Electrónica** en la Universitat Politécnica de València, apasionado por la intersección entre el hardware, el software y la inteligancia artificial 
 
-Mi enfoque principal es el **desarrollo de sistemas embebidos (embedded systems)**, donde disfruto programando microcontroladores y diseñando circuitos para dar vida a proyectos funcionales y eficientes.
+Mi enfoque principal es el **desarrollo de sistemas embebidos (embedded systems)**, donde disfruto programando microcontroladores y diseñando circuitos para dar vida a proyectos IoT.
 
-- 🎓 Cursando [Tu Semestre/Año] de Ingeniería Electrónica en [Tu Universidad].
+- 🎓 Cursando 1er semestre/4º de Ingeniería Electrónica en Universitat Politécnica de València.
 - 💡 Interesado en `IoT`, `Robótica`, `Sistemas de Control` y `RTOS`.
-- 🌱 Actualmente aprendiendo [Menciona una tecnología o concepto, ej: FreeRTOS, Diseño de PCBs Avanzado, Yocto Project].
-- ⚡ Dato curioso: [Menciona un hobby o dato curioso, ej: Me encanta el retrogaming y desarmar gadgets antiguos].
+- 🌱 Actualmente aprendiendo FreeRTOS, MQTT Seguro.
+- ⚡ Dato curioso: Me considero una persona creativa, y busco darle un toque personal a todos mis proyectos, mimando tanto la parte visual como la técnica.
 
 <br>
 
@@ -57,17 +57,21 @@ Estas son algunas de las herramientas y tecnologías con las que trabajo habitua
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=[TU_USUARIO_DE_GITHUB]&layout=compact&theme=dark" alt="Lenguajes Más Usados" />
 </p>
 
-<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=DanielMoreno&label=Visitas%20al%20perfil&color=0e75b6&style=flat" alt="profile views" />
+</p>
 
+
+<br>
 ## 📫 ¿Conectamos?
 
 ¡Estoy siempre abierto a colaborar en proyectos interesantes o a charlar sobre tecnología!
 
 <p align="left">
-  <a href="https://linkedin.com/in/[TU_PERFIL_LINKEDIN]" target="_blank">
+  <a href="https://www.linkedin.com/in/enrique-sanz-l%C3%B3pez-2423a8346" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="mailto:[TU_CORREO@gmail.com]" target="_blank">
+  <a href="mailto:enriquesl1102@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   </p>
