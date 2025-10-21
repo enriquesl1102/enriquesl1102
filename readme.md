@@ -1,7 +1,7 @@
-<h1 align="center">
-  ¡Hola! 👋 Soy [Tu Nombre]
+<h1>
+  ¡Hola! 👋 Soy Quique
 </h1>
-<h3 align="center">
+<h3>
   Estudiante de Ingeniería Electrónica | Desarrollador de Sistemas Embebidos
 </h3>
 
