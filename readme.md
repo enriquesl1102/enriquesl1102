@@ -7,7 +7,7 @@
 
 <br>
 
-##👨‍💻 Sobre Mí
+## 👨‍💻 Sobre Mí
 
 Soy un estudiante de **Ingeniería Electrónica** en la Universitat Politécnica de València, apasionado por la intersección entre el hardware, el software y la inteligancia artificial 
 
