@@ -1,68 +1,79 @@
-<h1>
-  ¡Hola! Soy Quique
-</h1>
-<h3>
-  Estudiante de Ingeniería Electrónica | Desarrollador de Sistemas Embebidos
-</h3>
+# Hey, soy Quique 👋
 
-<br>
+Ingeniero de visión por computador en **Ainia**, trabajando con imágenes hiperespectrales, remote sensing y sistemas de adquisición. Fuera del trabajo, construyo herramientas, aprendo nuevos stacks y rice Linux.
 
-## 👨‍💻 Sobre Mí
+---
 
-Soy un estudiante de **Ingeniería Electrónica** en la Universitat Politécnica de València, apasionado por la intersección entre el hardware, el software y la inteligancia artificial 
+## 🔭 En qué trabajo
 
-Mi enfoque principal es el **desarrollo de sistemas embebidos (embedded systems)**, donde disfruto programando microcontroladores y diseñando circuitos para dar vida a proyectos IoT.
+- Procesado y normalización de imágenes hiperespectrales (sensores Cubert, integración con Pix4Dmapper)
+- Pipelines de visión artificial con OpenCV y modelos de ML
+- Integración de hardware: PLCs, cámaras multiespectrales, GPS/NMEA
 
-- 🎓 Cursando 1er semestre/4º de Ingeniería Electrónica en Universitat Politécnica de València.
-- 💡 Interesado en `IoT`, `Robótica`, `Sistemas de Control` y `RTOS`.
-- 🌱 Actualmente aprendiendo FreeRTOS, MQTT Seguro.
-- ⚡ Dato curioso: Me considero una persona creativa, y busco darle un toque personal a todos mis proyectos, mimando tanto la parte visual como la técnica.
+## 🛠️ Stack
 
-<br>
+**Dominio sólido**
 
-## 🛠️ Mi TechStack
+![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
 
-Estas son algunas de las herramientas y tecnologías con las que trabajo habitualmente:
+**Expandiendo**
 
-### Lenguajes de Programación
-<code><img height="20" src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=cplusplus&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Ada-025E8C?style=flat&logo=ada&logoColor=white"></code>
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 
-### Hardware y Plataformas
-<code><img height="20" src="https://img.shields.io/badge/STM32-03234B?style=flat&logo=stmicroelectronics&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/ESP32-E7352C?style=flat&logo=espressif&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white"></code>
+**Entorno**
 
-### Herramientas y Conceptos
-<code><img height="20" src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/RTOS-1A4688?style=flat&logo=arm&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/Mosquitto-3C5280?style=flat&logo=mosquitto&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white"></code>
-<code><img height="20" src="https://img.shields.io/badge/SPI%2FI2C%2FUART-000000?style=flat"></code>
-<code><img height="20" src="https://img.shields.io/badge/PlatformIO-F07D2B?style=flat&logo=platformio&logoColor=white"></code>
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=arch-linux&logoColor=white)
+![Hyprland](https://img.shields.io/badge/Hyprland-58E1FF?style=flat&logoColor=black)
 
-<br>
+---
 
-## 🚀 Proyectos Destacados
+## 📦 Proyectos destacados
 
-¡Puedes ver mis proyectos más importantes anclados a continuación! Aquí hay un par de los que me siento orgulloso:
+### 🖼️ PythonVisualUI
+Herramienta de anotación de imágenes construida con PySide6 y OpenCV. Soporte para ROIs múltiples, zoom, pan, modos de edición y panel de gestión interactivo.
+`Python` `PySide6` `OpenCV` `NumPy`
 
--   **DomusAI**: Proyecto de Adquisición y Procesado de datos domésticos por IA para optimizar y reducir el consumo en el hogar mediante el uso de una esp32 y un sensor ACS712.
+---
 
-<br>
+### 📧 EmailSenderApp
+Pipeline completo de envío de emails: API REST en ASP.NET Core → cola en SQLite → BackgroundService → SMTP con MailKit. Frontend WinForms con patrón MVP.
+`C#` `.NET` `ASP.NET Core` `SQLite` `MailKit` `WinForms`
 
+---
 
-## 📫 ¿Conectamos?
+### ☕ Cormarí Coffee & Brunch *(en desarrollo)*
+Web app para gestión de un local de brunch. Frontend en React, backend en FastAPI con PostgreSQL.
+`React` `FastAPI` `PostgreSQL` `Python`
 
-¡Estoy siempre abierto a colaborar en proyectos interesantes o a charlar sobre tecnología!
+---
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/enrique-sanz-l%C3%B3pez-2423a8346" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:enriquesl1102@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  </p>
+### 🎯 Object Tracker
+Tracker de objetos en tiempo real con webcam. Detección por color HSV, filtrado Kalman, trails de movimiento y visualización de velocidad.
+`Python` `OpenCV` `NumPy` `pandas` `matplotlib`
+
+---
+
+### 📁 CopyFileMap
+Utilidad de copia de archivos en C++ con multithreading, persistencia de estado en JSON y reanudación de transferencias interrumpidas.
+`C++` `OpenCV` `JSON` `multithreading`
+
+---
+
+## ⚙️ Setup
+
+Corro **Hyprland** en Arch Linux con Kitty (JetBrains Mono), Rofi (Catppuccin Mocha) y Waybar. Minimalismo ante todo.
+
+Gestiono el conocimiento con **Obsidian** — vault PARA con MOCs por caso de uso.
+
+---
+
+## 📫 Contacto
+
+Si trabajas con visión artificial, imágenes hiperespectrales o simplemente quieres hablar de Linux ricing — abre una issue o un PR.
